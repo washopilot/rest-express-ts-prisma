@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "fae126e6-6c57-4d0d-addb-5e0fb0606baa",
+    "colName": "localhost",
+    "created": "2023-01-09T00:06:32.107Z",
+    "sortNum": 10000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "options": {
+        "baseUrl": "http://localhost:3000"
+      }
+    }
+  }
+]
